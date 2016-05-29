@@ -269,20 +269,17 @@ namespace Client.Logic.Graphics.Renderers.Sprites
             textX = ScreenRenderer.ToTileX(x) + sprite.Offset.X + (Constants.TILE_WIDTH / 2) - (name.Length * 7 / 2);
             textY = ScreenRenderer.ToTileY(y) + sprite.Offset.Y - (Constants.TILE_HEIGHT / 2) - /*4*/ 32;
             TextRenderer.DrawText(destData, name, color, Color.Black, textX, textY);
-            //} else {
-            //    textX = ScreenRenderer.ToTileX(sprite.Location.X) + sprite.Offset.X + (Constants.TILE_WIDTH / 2) - ((name.Length / 2) * 8);
-            //    textY = ScreenRenderer.ToTileY(sprite.Location.Y) + sprite.Offset.Y - (Constants.TILE_HEIGHT / 2) - 48;
-            //    TextRenderer.DrawText(destData, name, color, Color.Black, textX, textY);
-            //}
 
 
             //TEST CODE 
-            //Bitmap bitmap = (Bitmap)Image.FromFile(@"C:\Users\Frosty\Desktop\PJOFiles\Client\build\Skins\Main Theme\General\Badges\Moderator.png");
-            //Surface sheetSurface = new Surface(bitmap);
-            //sheetSurface.Transparent = true;
+            Bitmap bitmap = (Bitmap)Image.FromFile(@"C:\Users\Frosty\Desktop\PJOFiles\Client\build\Skins\Main Theme\General\Badges\Moderator.png");
+            Surface sheetSurface = new Surface(bitmap);
+            sheetSurface.Transparent = true;
 
-            //Point point = new Point(x,y);
-            //destData.Blit(sheetSurface, point);
+            int emblemX = ScreenRenderer.ToTileX(x) + sprite.Offset.X + (Constants.TILE_WIDTH / 2) + (name.Length * 7 / 2) + 5;
+
+            Point point = new Point(emblemX,textY+3);
+            destData.Blit(sheetSurface, point);
 
         }
 

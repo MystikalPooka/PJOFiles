@@ -1,0 +1,30 @@
+C:\1Server\Launcher Sammlung\Neuer Versuch\Marschlu\Marschlu\bin\Release\Marschlu.exe
+C:\1Server\Launcher Sammlung\Neuer Versuch\Marschlu\Marschlu\bin\Release\Marschlu.pdb
+C:\1Server\Launcher Sammlung\Neuer Versuch\Marschlu\Marschlu\obj\x86\Release\Marschlu.Marschlu.resources
+C:\1Server\Launcher Sammlung\Neuer Versuch\Marschlu\Marschlu\obj\x86\Release\Marschlu.Properties.Resources.resources
+C:\1Server\Launcher Sammlung\Neuer Versuch\Marschlu\Marschlu\obj\x86\Release\Marschlu.csproj.GenerateResource.Cache
+C:\1Server\Launcher Sammlung\Neuer Versuch\Marschlu\Marschlu\obj\x86\Release\Marschlu.exe
+C:\1Server\Launcher Sammlung\Neuer Versuch\Marschlu\Marschlu\obj\x86\Release\Marschlu.pdb
+C:\1Server\Launcher Sammlung\Neuer Versuch\Marschlu\Marschlu\obj\x86\Release\Marschlu.DoLoad.resources
+C:\1Server\Launcher Sammlung\Neuer Versuch\Marschlu\Marschlu\obj\x86\Release\Marschlu.csprojResolveAssemblyReference.cache
+C:\1Server\Launcher Sammlung\Neuer Versuch\Marschlu\Marschlu\obj\x86\Release\Marschlu.Option.resources
+C:\1Server\Launcher Sammlung\Perfect\Marschlu\Marschlu\obj\x86\Release\Marschlu.exe
+C:\1Server\Launcher Sammlung\Perfect\Marschlu\Marschlu\obj\x86\Release\Marschlu.pdb
+C:\1Server\Launcher Sammlung\Perfect\Marschlu\Marschlu\bin\Release\Marschlu.exe
+C:\1Server\Launcher Sammlung\Perfect\Marschlu\Marschlu\bin\Release\Marschlu.pdb
+C:\1Server\Launcher Sammlung\Perfect\Marschlu\Marschlu\obj\x86\Release\Marschlu.csprojResolveAssemblyReference.cache
+C:\1Server\Launcher Sammlung\Perfect\Marschlu\Marschlu\obj\x86\Release\Marschlu.DoLoad.resources
+C:\1Server\Launcher Sammlung\Perfect\Marschlu\Marschlu\obj\x86\Release\Marschlu.Option.resources
+C:\1Server\Launcher Sammlung\Perfect\Marschlu\Marschlu\obj\x86\Release\Marschlu.Marschlu.resources
+C:\1Server\Launcher Sammlung\Perfect\Marschlu\Marschlu\obj\x86\Release\Marschlu.Properties.Resources.resources
+C:\1Server\Launcher Sammlung\Perfect\Marschlu\Marschlu\obj\x86\Release\Marschlu.csproj.GenerateResource.Cache
+C:\Users\Zach\Downloads\MarschluPatcher\Marschlu\Marschlu\Marschlu\obj\x86\Release\Marschlu.exe
+C:\Users\Zach\Downloads\MarschluPatcher\Marschlu\Marschlu\Marschlu\obj\x86\Release\Marschlu.pdb
+C:\Users\Zach\Downloads\MarschluPatcher\Marschlu\Marschlu\Marschlu\bin\Release\Marschlu.exe
+C:\Users\Zach\Downloads\MarschluPatcher\Marschlu\Marschlu\Marschlu\bin\Release\Marschlu.pdb
+C:\Users\Zach\Downloads\MarschluPatcher\Marschlu\Marschlu\Marschlu\obj\x86\Release\Marschlu.csprojResolveAssemblyReference.cache
+C:\Users\Zach\Downloads\MarschluPatcher\Marschlu\Marschlu\Marschlu\obj\x86\Release\Marschlu.DoLoad.resources
+C:\Users\Zach\Downloads\MarschluPatcher\Marschlu\Marschlu\Marschlu\obj\x86\Release\Marschlu.Option.resources
+C:\Users\Zach\Downloads\MarschluPatcher\Marschlu\Marschlu\Marschlu\obj\x86\Release\Marschlu.Marschlu.resources
+C:\Users\Zach\Downloads\MarschluPatcher\Marschlu\Marschlu\Marschlu\obj\x86\Release\Marschlu.Properties.Resources.resources
+C:\Users\Zach\Downloads\MarschluPatcher\Marschlu\Marschlu\Marschlu\obj\x86\Release\Marschlu.csproj.GenerateResource.Cache

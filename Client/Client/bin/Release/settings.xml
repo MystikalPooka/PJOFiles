@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Options>
+  <General>
+    <AutoSave>True</AutoSave>
+    <AutoSaveSpeed>0</AutoSaveSpeed>
+    <AutoScroll>True</AutoScroll>
+    <Music>False</Music>
+    <NpcBar>True</NpcBar>
+    <NpcDamage>False</NpcDamage>
+    <NpcName>True</NpcName>
+    <PlayerBar>False</PlayerBar>
+    <PlayerDamage>False</PlayerDamage>
+    <PlayerName>True</PlayerName>
+    <SavedAccount>TestAccount</SavedAccount>
+    <SavedPassword>TestAccount</SavedPassword>
+    <Sound>False</Sound>
+    <SpeechBubbles>True</SpeechBubbles>
+    <Timestamps>False</Timestamps>
+    <ActiveSkin>Main Theme</ActiveSkin>
+  </General>
+  <ConnectionInfo>
+    <Port>4001</Port>
+    <Server>178.32.193.168</Server>
+    <UpdateLink />
+    <SFXLink>http://swf.archiezone.co.uk/PMU/SoundFX/</SFXLink>
+    <MusicLink>http://swf.archiezone.co.uk/PMU/music/</MusicLink>
+  </ConnectionInfo>
+  <Editor>
+    <MapGrid>False</MapGrid>
+    <DisplayAttributes>False</DisplayAttributes>
+    <DragAndPlace>False</DragAndPlace>
+  </Editor>
+</Options>
